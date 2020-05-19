@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  fah-k8s:
+  - apiVersion: v2
+    appVersion: 7.6.13
+    created: "2020-05-19T22:05:52.521072093+01:00"
+    description: Helm chart to deploy a DaemonSet of Folding@Home clients
+    digest: c4a0216dd3fcb0dce1ce05e11524f997c96e8490a0250766a31747439a446984
+    name: fah-k8s
+    type: application
+    urls:
+    - fah-k8s-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-19T22:05:52.520522751+01:00"
